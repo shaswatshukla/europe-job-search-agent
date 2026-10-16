@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+candidate.json
+config.json
+resume/
+reports/
+state/
+history/
+cache/
+*.zip

@@ -1,0 +1,110 @@
+{
+  "recipient": "candidate@example.com",
+  "subject": "Visa Sponsorship Opportunity in Europe",
+  "max_age_days": 21,
+  "max_per_candidate": 10,
+  "countries": [
+    "Netherlands",
+    "Germany",
+    "Ireland",
+    "Denmark",
+    "Sweden",
+    "Finland",
+    "Belgium",
+    "Luxembourg",
+    "Austria",
+    "France",
+    "United Kingdom"
+  ],
+  "ashby_boards": [
+    "justplay-gmbh",
+    "Superhuman Platform Inc",
+    "n8n",
+    "pennylane"
+  ],
+  "greenhouse_boards": [
+    "adyen",
+    "hellofresh",
+    "n26"
+  ],
+  "smartrecruiters_companies": [
+    "GenomicsEngland",
+    "Statkraft"
+  ],
+  "candidates": [
+    {
+      "id": "candidate-1",
+      "display_name": "Example candidate 1",
+      "titles": [
+        "business analyst",
+        "data analyst",
+        "bi analyst",
+        "business intelligence analyst",
+        "supply chain analyst",
+        "product owner",
+        "data steward",
+        "data governance"
+      ],
+      "skills": [
+        "SQL",
+        "Power BI",
+        "Python",
+        "pandas",
+        "Tableau",
+        "Qlik Sense",
+        "Excel",
+        "Jira",
+        "Confluence",
+        "Azure DevOps",
+        "Scrum",
+        "requirements",
+        "inventory",
+        "forecasting",
+        "supply chain"
+      ],
+      "languages": []
+    },
+    {
+      "id": "candidate-2",
+      "display_name": "Example candidate 2",
+      "titles": [
+        "qa engineer",
+        "qa automation",
+        "quality assurance",
+        "test analyst",
+        "test engineer",
+        "sdet",
+        "qa lead",
+        "quality engineer",
+        "test automation",
+        "data quality"
+      ],
+      "skills": [
+        "Python",
+        "pytest",
+        "pytest-BDD",
+        "SQL",
+        "Selenium",
+        "TestComplete",
+        "UFT",
+        "Postman",
+        "SoapUI",
+        "Snowflake",
+        "Talend",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Azure DevOps",
+        "GitHub",
+        "BDD",
+        "CI/CD",
+        "Jira",
+        "scikit-learn"
+      ],
+      "languages": [
+        "English",
+        "Hindi"
+      ]
+    }
+  ]
+}
